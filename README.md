@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roberto V Ramirez jr</h1>
 <h3 align="center">A versatile and passionate full-stack developer and data engineer from India with experience in frontend and backend development, as well as data engineering. Skilled in creating seamless and responsive user interfaces, building robust backend services, and managing complex data pipelines, I'm dedicated to delivering efficient and scalable solutions across the entire stack.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-
+<div align="center">
+  <p> <img src="https://komarev.com/ghpvc/?username=robram3000&label=Profile%20views&color=0e75b6&style=flat" alt="robram3000" /> </p>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robram3000&label=Profile%20views&color=0e75b6&style=flat" alt="robram3000" /> </p>
 
