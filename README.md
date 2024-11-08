@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberto V Ramirez jr</h1>
-<h3 align="center">A versatile and passionate full-stack developer and data engineer from India with experience in frontend and backend development, as well as data engineering. Skilled in creating seamless and responsive user interfaces, building robust backend services, and managing complex data pipelines, I'm dedicated to delivering efficient and scalable solutions across the entire stack.</h3>
+<h3 align="center" style="text-align: justify; color: #4A4A4A; font-family: Arial, sans-serif; line-height: 1.6;">
+  An enthusiastic and dedicated learner from the Philippines, exploring the fields of full-stack development, data engineering, and software engineering. With a growing foundation in frontend and backend development, as well as data engineering, I am eager to build my skills in creating user-friendly interfaces, developing reliable backend services, and managing data pipelines. My goal is to become a versatile professional in networking engineering, data engineering, and software development, committed to delivering effective and scalable solutions across diverse tech domains.
+</h3>
 
 <div align="center">
   <img src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="robram3000" />
