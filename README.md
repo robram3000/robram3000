@@ -31,14 +31,4 @@
 
 <br>
 
-## 🛠️ **Technical Proficiency**
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ff79c6', 'edgeLabelBackground':'#282a36'}}}%%
-xychart-beta
-    title "Weekly Development Focus"
-    x-axis ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
-    y-axis "Hours" 0 --> 10
-    line [5, 7, 6, 8, 9, 4, 2]
-    line [2, 3, 4, 5, 6, 3, 1]
-    line [1, 2, 3, 4, 3, 2, 1]
-    legend ["Frontend", "Backend", "Data Analysis"]
+
