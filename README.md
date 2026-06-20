@@ -13,37 +13,14 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,python,cs,mysql&theme=light" />
-</p>
-
-### Frontend
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts&theme=light" />
-</p>
-
-### Backend / Frameworks
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=django,flask,spring,dotnet&theme=light" />
-</p>
-
-### Databases
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&theme=light" />
-</p>
-
-### Deployment & DevOps
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git&theme=light" />
-</p>
-
-### IDEs & Tools
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio&theme=light" />
 </p>
+
+
 
 <hr/>
 
