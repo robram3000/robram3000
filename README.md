@@ -1,38 +1,30 @@
-<div align="center">
+```
+╔══════════════════════════════════════════════════╗
+║                                                    ║
+║   roberto v. ramirez jr.                          ║
+║   full-stack developer                            ║
+║                                                    ║
+╚══════════════════════════════════════════════════╝
+```
 
-# Roberto V. Ramirez Jr.
-### Full-Stack Developer
+```bash
+roberto@dev:~$ whoami
+Full-stack developer — frontend, backend, and systems-level work.
+Comfortable across React/TypeScript, .NET, and native tooling.
 
-<sub>Full-stack development · Data engineering · Systems programming</sub>
+roberto@dev:~$ cat skills.txt
+LANGUAGES        Python, TypeScript, C++
+FRAMEWORKS       React, Django, .NET
+INFRA & TOOLS    AWS, MySQL, Docker, Git, Figma
+```
 
-</div>
-
-<br>
-
----
-
-## About
-
-Full-stack developer with hands-on experience across frontend, backend, and systems-level work — from React/TypeScript interfaces to .NET service architecture and native Windows tooling. Comfortable moving across the stack and picking up whatever a project requires.
-
-## Core Skills
-
-**Languages**
-`Python` `TypeScript` `C++`
-
-**Frameworks & Libraries**
-`React` `Django` `.NET`
-
-**Infrastructure & Tools**
-`AWS` `MySQL` `Docker` `Git` `Figma`
-
----
-
-## GitHub Activity
+```bash
+roberto@dev:~$ ./fetch-github-stats.sh
+```
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=robram3000&bg_color=ffffff00&color=4d4d4d&line=2b2b2b&point=1a1a1a&area=true&area_color=999999&title_color=1a1a1a&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=robram3000&bg_color=ffffff00&color=4d4d4d&line=2b2b2b&point=1a1a1a&area=true&area_color=999999&title_color=1a1a1a&hide_border=true&custom_title=contribution_activity" width="95%" />
 
 </div>
 
@@ -49,8 +41,9 @@ Full-stack developer with hands-on experience across frontend, backend, and syst
 
 </div>
 
----
+```bash
+roberto@dev:~$ echo $CONTACT
+github.com/robram3000
 
-<div align="center">
-<sub>github.com/robram3000</sub>
-</div>
+roberto@dev:~$ _
+```
