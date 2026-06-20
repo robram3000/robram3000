@@ -9,22 +9,17 @@
 
 <hr/>
 
-### Languages
+### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,python,cs,mysql&theme=light" />
-  <img src="https://skillicons.dev/icons?i=react,ts&theme=light" />
-  <img src="https://skillicons.dev/icons?i=django,flask,spring,dotnet&theme=light" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&theme=light" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git&theme=light" />
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,python,cs,mysql,react,ts,django,flask,spring,dotnet,postgres,firebase,docker,kubernetes,git,vscode,visualstudio,androidstudio&theme=light" />
 </p>
-
-
 
 <hr/>
 
 ### System Design
+
+<div align="center">
 
 | Concept | Description |
 |---|---|
@@ -35,5 +30,20 @@
 | Event-Driven Architecture | Async, message-based communication |
 | Containerized Deployments | Docker / Kubernetes |
 | API Gateway | Centralized service communication |
+
+</div>
+
+<hr/>
+
+### Dashboard
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&hide_rank=false" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=minimal&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333&langs_count=8" />
+</p>
 
 <hr/>
