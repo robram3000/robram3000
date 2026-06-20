@@ -1,41 +1,141 @@
-
-```bash
-roberto@dev:~$ whoami
-Full-stack developer — frontend, backend, and systems-level work.
-Comfortable across React/TypeScript, .NET, and native tooling.
-
-roberto@dev:~$ cat skills.txt
-LANGUAGES        Python, TypeScript, C++
-FRAMEWORKS       React, Django, .NET
-INFRA & TOOLS    AWS, MySQL, Docker, Git, Figma
-```
-
-```bash
-roberto@dev:~$ ./fetch-github-stats.sh
-```
+<h1 align="center">Online Attendance Monitoring System with Location and Time Integration for Off-Site Employees</h1>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=robram3000&bg_color=ffffff00&color=4d4d4d&line=2b2b2b&point=1a1a1a&area=true&area_color=999999&title_color=1a1a1a&hide_border=true&custom_title=contribution_activity" width="95%" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498db&center=true&vCenter=true&width=600&lines=Complete+Workforce+Management+Solution;Employee+Tracking+%26+Attendance;Role-Based+Access+Control;Real-Time+Analytics+%26+Reporting" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=robram3000&show_icons=true&hide_border=true&include_all_commits=true&icon_color=808080&text_color=4d4d4d&title_color=1a1a1a&bg_color=ffffff00" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robram3000&layout=compact&hide_border=true&langs_count=8&text_color=4d4d4d&title_color=1a1a1a&bg_color=ffffff00" width="49%" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
+<br>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+<br>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+<img src="https://img.shields.io/badge/.NET_Aspire-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Aspire">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+<br>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=robram3000&hide_border=true&background=ffffff00&ring=4d4d4d&fire=4d4d4d&currStreakLabel=1a1a1a&sideLabels=4d4d4d&dates=808080" width="60%" />
-
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+<tr>
+<th align="center" width="33%">Authentication</th>
+<th align="center" width="33%">Authorization</th>
+<th align="center" width="33%">Audit & Logging</th>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/JWT_Authentication-Secure-brightgreen?style=flat-square" alt="JWT Authentication"><br><br>
+• Token-based Auth<br>
+• Refresh Tokens<br>
+• Password Encryption<br>
+• Session Management
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Role_Based_Access-5_Levels-blue?style=flat-square" alt="RBAC"><br><br>
+• Administrator<br>
+• Manager<br>
+• HR<br>
+• Supervisor<br>
+• Employee
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Audit_Logging-Comprehensive-orange?style=flat-square" alt="Audit Logging"><br><br>
+• Login/Logout Tracking<br>
+• User Activity Logs<br>
+• System Events<br>
+• Error Monitoring
+</td>
+</tr>
+</table>
 </div>
 
-```bash
-roberto@dev:~$ echo $CONTACT
-github.com/robram3000
-
-roberto@dev:~$ _
-```
+<div align="center">
+<table border="0" width="100%" style="border-collapse: collapse;">
+<tr>
+<td width="33%">
+<div align="center">
+<h3>Employee Management</h3>
+<ul style="text-align: left;">
+<li>✓ Complete Employee Profiles</li>
+<li>✓ Department Assignment</li>
+<li>✓ Contact Information</li>
+<li>✓ Document Management</li>
+</ul>
+</div>
+</td>
+<td width="33%">
+<div align="center">
+<h3>Attendance System</h3>
+<ul style="text-align: left;">
+<li>✓ Time In/Out Tracking</li>
+<li>✓ Shift Management</li>
+<li>✓ Overtime Calculation</li>
+<li>✓ Leave Management</li>
+</ul>
+</div>
+</td>
+<td width="33%">
+<div align="center">
+<h3>Reporting & Analytics</h3>
+<ul style="text-align: left;">
+<li>✓ Attendance Reports</li>
+<li>✓ Performance Metrics</li>
+<li>✓ Export to PDF/Excel</li>
+<li>✓ Real-time Dashboards</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td width="33%">
+<div align="center">
+<h3>Mobile App</h3>
+<ul style="text-align: left;">
+<li>✓ React Native + Expo</li>
+<li>✓ Mobile Clock In/Out</li>
+<li>✓ Offline-First Support</li>
+<li>✓ Push Notifications</li>
+</ul>
+</div>
+</td>
+<td width="33%">
+<div align="center">
+<h3>Location & Geofencing</h3>
+<ul style="text-align: left;">
+<li>✓ GPS-Based Check-in</li>
+<li>✓ Geofence Validation</li>
+<li>✓ Location History</li>
+<li>✓ Off-Site Employee Tracking</li>
+</ul>
+</div>
+</td>
+<td width="33%">
+<div align="center">
+<h3>Performance & Caching</h3>
+<ul style="text-align: left;">
+<li>✓ Redis Session Caching</li>
+<li>✓ Real-Time Data Sync</li>
+<li>✓ Background Jobs</li>
+<li>✓ Reduced DB Load</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
