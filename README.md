@@ -1,57 +1,56 @@
 <div align="center">
 
 # Roberto V. Ramirez Jr.
+### Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Data+Engineering+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-## Coding Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robram3000&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph)
+<sub>Full-stack development · Data engineering · Systems programming</sub>
 
 </div>
 
 <br>
 
-## Stats
+---
+
+## About
+
+Full-stack developer with hands-on experience across frontend, backend, and systems-level work — from React/TypeScript interfaces to .NET service architecture and native Windows tooling. Comfortable moving across the stack and picking up whatever a project requires.
+
+## Core Skills
+
+**Languages**
+`Python` `TypeScript` `C++`
+
+**Frameworks & Libraries**
+`React` `Django` `.NET`
+
+**Infrastructure & Tools**
+`AWS` `MySQL` `Docker` `Git` `Figma`
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=robram3000&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&icon_color=8B949E&text_color=C9D1D9&title_color=C9D1D9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robram3000&layout=compact&theme=transparent&hide_border=true&langs_count=8&text_color=C9D1D9&title_color=C9D1D9" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=robram3000&bg_color=ffffff00&color=4d4d4d&line=2b2b2b&point=1a1a1a&area=true&area_color=999999&title_color=1a1a1a&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=robram3000&theme=transparent&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=robram3000&show_icons=true&hide_border=true&include_all_commits=true&icon_color=808080&text_color=4d4d4d&title_color=1a1a1a&bg_color=ffffff00" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robram3000&layout=compact&hide_border=true&langs_count=8&text_color=4d4d4d&title_color=1a1a1a&bg_color=ffffff00" width="49%" />
 
 </div>
 
-<br>
-
-## Tech Stack
-
 <div align="center">
 
-![React](https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=white)
-![Django](https://img.shields.io/badge/Django-141414?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-141414?style=for-the-badge&logo=amazonaws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-141414?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-141414?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=robram3000&hide_border=true&background=ffffff00&ring=4d4d4d&fire=4d4d4d&currStreakLabel=1a1a1a&sideLabels=4d4d4d&dates=808080" width="60%" />
 
 </div>
 
-<br>
+---
 
 <div align="center">
-<sub>Thanks for stopping by.</sub>
+<sub>github.com/robram3000</sub>
 </div>
