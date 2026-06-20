@@ -38,12 +38,10 @@
 ### Dashboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&hide_rank=false" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=minimal&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=333333&icon_color=0e75b6&hide_rank=false" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=minimal&hide_border=true&background=FFFFFF&stroke=0e75b6&ring=0e75b6&fire=fb8500&currStreakLabel=0e75b6" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=333333&langs_count=8" />
 </p>
-
-<hr/>
