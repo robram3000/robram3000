@@ -1,129 +1,114 @@
-<h1 align="center">Roberto V. Ramirez Jr.</h1>
+<h1 align="center">Hi 👋, I'm Roberto</h1>
+<h3 align="center">Full-Stack Developer | Frontend, Backend & Mobile</h3>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498db&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Data+Engineering+Enthusiast;Systems-Level+Programming;Continuous+Learner" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/yourusername?tab=followers">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="followers" />
+  </a>
+</p>
 
-<div align="center">
+---
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
-<br>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
-<br>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-<img src="https://img.shields.io/badge/.NET_Aspire-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Aspire">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-<br>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-<br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+### 🚀 About Me
 
-</div>
+- 💻 I build across the full stack — frontend interfaces, backend services, and mobile apps
+- 🏗️ Interested in **system design** and **microservices architecture**
+- 🌱 Currently exploring distributed systems and cloud-native patterns
+- 📫 Reach me at: **your.email@example.com**
+- ⚡ Fun fact: I enjoy turning messy requirements into clean, well-structured code
 
-<div align="center">
-<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-<tr>
-<th align="center" width="33%">What I Do</th>
-<th align="center" width="33%">How I Work</th>
-<th align="center" width="33%">Currently</th>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Full--Stack-Development-brightgreen?style=flat-square" alt="Full Stack"><br><br>
-• Frontend & Backend<br>
-• Mobile (React Native)<br>
-• Systems-Level Tooling<br>
-• REST API Design
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Clean_Architecture-Focused-blue?style=flat-square" alt="Architecture"><br><br>
-• CQRS / Unit of Work<br>
-• Reusable Components<br>
-• Style-Consistent Code<br>
-• Documentation-Driven
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Always-Learning-orange?style=flat-square" alt="Learning"><br><br>
-• Exploring GIS Tooling<br>
-• Cloud & DevOps<br>
-• Open to Collaboration<br>
-• Side Projects
-</td>
-</tr>
-</table>
-</div>
+---
 
-<div align="center">
-<table border="0" width="100%" style="border-collapse: collapse;">
-<tr>
-<td width="33%">
-<div align="center">
-<h3>Admin Panel UI</h3>
-<ul style="text-align: left;">
-<li>✓ React + TypeScript + Vite</li>
-<li>✓ Ant Design + SCSS Modules</li>
-<li>✓ Dark Mode Theming</li>
-<li>✓ Excel/PDF Export</li>
-</ul>
-</div>
-</td>
-<td width="33%">
-<div align="center">
-<h3>Screen Mirroring Tool</h3>
-<ul style="text-align: left;">
-<li>✓ C++17 + Win32 + GDI+</li>
-<li>✓ Android-to-Windows via ADB</li>
-<li>✓ Real-Time Capture Pipeline</li>
-<li>✓ Low-Latency Rendering</li>
-</ul>
-</div>
-</td>
-<td width="33%">
-<div align="center">
-<h3>Workforce Attendance System</h3>
-<ul style="text-align: left;">
-<li>✓ .NET + React Native/Expo</li>
-<li>✓ GPS-Based Geofencing</li>
-<li>✓ Redis Caching</li>
-<li>✓ Role-Based Access Control</li>
-</ul>
-</div>
-</td>
-</tr>
-</table>
-</div>
+### 🛠️ Languages & Core
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=robram3000&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" />
+### 🎨 Frontend
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-<div align="center">
+### ⚙️ Backend / Frameworks
 
-<img src="https://github-readme-stats.vercel.app/api?username=robram3000&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robram3000&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" />
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Aspire-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
 
-</div>
+### 🗄️ Databases
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=robram3000&theme=radical&hide_border=true" width="60%" />
+### ☁️ Deployment & DevOps
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/MonsterASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<div align="center">
-<sub>github.com/robram3000</sub>
-</div>
+### 🧰 IDEs & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+</p>
+
+---
+
+### 🏗️ System Design
+
+- Microservices Architecture
+- RESTful API Design
+- CQRS (Command Query Responsibility Segregation)
+- Repository & Unit of Work Patterns
+- Event-Driven Architecture
+- Containerized Deployments (Docker / Kubernetes)
+- API Gateway & Service Communication
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
