@@ -17,24 +17,6 @@
 
 <hr/>
 
-### System Design
-
-<div align="center">
-
-| Concept | Description |
-|---|---|
-| Microservices Architecture | Independently deployable services |
-| RESTful API Design | Resource-oriented HTTP APIs |
-| CQRS | Command Query Responsibility Segregation |
-| Repository & Unit of Work | Data access abstraction patterns |
-| Event-Driven Architecture | Async, message-based communication |
-| Containerized Deployments | Docker / Kubernetes |
-| API Gateway | Centralized service communication |
-
-</div>
-
-<hr/>
-
 ### Dashboard
 
 <p align="center">
