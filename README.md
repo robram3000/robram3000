@@ -36,17 +36,4 @@ Full-stack developer — frontend, backend, and mobile.
 <img src="https://img.shields.io/badge/-Kubernetes-4a4a4a?style=flat-square&logo=kubernetes&logoColor=white" height="20" />
 <img src="https://img.shields.io/badge/-Git-4a4a4a?style=flat-square&logo=git&logoColor=white" height="20" />
 
----
 
-### Samaarine Studio
-
-The boat above is not a picture of a model — it *is* the model. Samaarine Studio
-builds its submarine procedurally from a lathed hull profile, a faired sail, and
-a seven-bladed brass screw, with no asset file anywhere in the project. The same
-geometry is projected, shaded, and written out as flat polygons so it can surface
-here, where GitHub allows no WebGL.
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=robram3000&show_icons=true&hide_border=true&theme=transparent&icon_color=4a4a4a&title_color=4a4a4a" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robram3000&layout=compact&hide_border=true&theme=transparent&title_color=4a4a4a&langs_count=6" height="150" alt="top languages" />
-</div>
