@@ -1,29 +1,52 @@
-<h3 align="center">Full-Stack Developer | Frontend, Backend & Mobile</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=000000&style=flat-square" alt="profile views" />
-  <a href="https://github.com/robram3000?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=flat-square&color=000000" alt="followers" />
-  </a>
-</p>
+<img src="assets/samaarine.svg" width="820" alt="Samaarine — a procedurally modelled submarine, rendered in 3D" />
 
-<hr/>
+### Rob Ram
 
-### Tech Stack
+Full-stack developer — frontend, backend, and mobile.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,python,cs,mysql,react,ts,django,flask,spring,dotnet,postgres,firebase,docker,kubernetes,git,vscode,visualstudio,androidstudio&theme=light" />
-</p>
+<a href="https://github.com/robram3000?tab=followers"><img src="https://img.shields.io/github/followers/robram3000?label=followers&style=flat-square&color=4a4a4a&labelColor=4a4a4a" alt="followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=robram3000&label=views&color=4a4a4a&style=flat-square" alt="profile views" />
 
-<hr/>
+</div>
 
-### Dashboard
+---
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=333333&icon_color=0e75b6&hide_rank=false" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=minimal&hide_border=true&background=FFFFFF&stroke=0e75b6&ring=0e75b6&fire=fb8500&currStreakLabel=0e75b6" />
-</p>
+### Stack
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=333333&langs_count=8" />
-</p>
+**Frontend**
+<img src="https://img.shields.io/badge/-React-4a4a4a?style=flat-square&logo=react&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/-TypeScript-4a4a4a?style=flat-square&logo=typescript&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/-Sass-4a4a4a?style=flat-square&logo=sass&logoColor=white" height="20" />
+
+**Backend**
+<img src="https://img.shields.io/badge/-.NET-4a4a4a?style=flat-square&logo=dotnet&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/-Spring-4a4a4a?style=flat-square&logo=spring&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/-Django-4a4a4a?style=flat-square&logo=django&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/-Flask-4a4a4a?style=flat-square&logo=flask&logoColor=white" height="20" />
+
+**Data**
+<img src="https://img.shields.io/badge/-PostgreSQL-4a4a4a?style=flat-square&logo=postgresql&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/-MySQL-4a4a4a?style=flat-square&logo=mysql&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/-Firebase-4a4a4a?style=flat-square&logo=firebase&logoColor=white" height="20" />
+
+**Infra**
+<img src="https://img.shields.io/badge/-Docker-4a4a4a?style=flat-square&logo=docker&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/-Kubernetes-4a4a4a?style=flat-square&logo=kubernetes&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/-Git-4a4a4a?style=flat-square&logo=git&logoColor=white" height="20" />
+
+---
+
+### Samaarine Studio
+
+The boat above is not a picture of a model — it *is* the model. Samaarine Studio
+builds its submarine procedurally from a lathed hull profile, a faired sail, and
+a seven-bladed brass screw, with no asset file anywhere in the project. The same
+geometry is projected, shaded, and written out as flat polygons so it can surface
+here, where GitHub allows no WebGL.
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=robram3000&show_icons=true&hide_border=true&theme=transparent&icon_color=4a4a4a&title_color=4a4a4a" height="150" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robram3000&layout=compact&hide_border=true&theme=transparent&title_color=4a4a4a&langs_count=6" height="150" alt="top languages" />
+</div>
